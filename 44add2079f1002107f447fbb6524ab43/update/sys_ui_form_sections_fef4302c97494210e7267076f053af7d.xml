@@ -42,6 +42,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-03-16 14:44:16</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-06 11:12:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ce1f801797dd8e10e7267076f053afe0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_cdltd_loaner_req_loaner_request" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">fef4302c97494210e7267076f053af7d</sys_ui_form>
+            <sys_ui_section caption="Reminders" display_value="Reminders" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">4e1f801797dd8e10e7267076f053afdd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-06 11:12:23</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_cdltd_loaner_req_loaner_request</name>
             <roles/>
